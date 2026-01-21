@@ -38,8 +38,8 @@ Tecnologias que utilizo para extração, transformação e visualização de dad
 Estou disponível para oportunidades como **Analista de Dados Jr**.
 
 <div align="center">
-  <a href="www.linkedin.com/in/ithiagojs" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
+  <a href="https://www.linkedin.com/in/ithiagojs" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
   </a> 
   <a href="mailto:thgjacques@gmail.com">
     <img src="https://img.shields.io/badge/-Email-%23D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
