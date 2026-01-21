@@ -32,24 +32,13 @@ Tecnologias que utilizo para extração, transformação e visualização de dad
 
 ---
 
-### 📦 Projeto em Destaque
-
-#### [🚚 Alpha Logística (Ver Repositório)](https://github.com/ithiagojs/Alpha_logistica)
-*Aplicação de gestão logística desenvolvida em Python.*
-
-Um sistema desktop completo que simula o dia a dia de uma operação logística.
-- **O Problema:** Dados manuais e descentralizados.
-- **A Solução:** Migração de planilhas CSV para **Banco de Dados Relacional (SQLite)**.
-- **Tecnologias:** Python, Tkinter (GUI), SQL, ETL básico.
-
----
 
 ### 📫 Vamos Conversar?
 
 Estou disponível para oportunidades como **Analista de Dados Jr**.
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/thiago-jacques-77a876228" target="_blank">
+  <a href="www.linkedin.com/in/ithiagojs" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
   </a> 
   <a href="mailto:thgjacques@gmail.com">
