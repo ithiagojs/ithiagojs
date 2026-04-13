@@ -16,32 +16,6 @@ Minha trajetória em **Produção e Logística** me ensinou que dados soltos nã
 
 > 💡 **Meu Foco:** Utilizar Python, SQL e Power BI para contar histórias através dos dados e otimizar rotinas empresariais.
 
-### 🌟 Projeto em Destaque
-
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Roboto&weight=700&size=24&pause=1000&color=F7DF1E&background=0D111700&center=true&vCenter=true&width=500&lines=Destaque%3A+JobTracker;Ajudando+Pessoas+a+Encontrarem+Emprego" alt="Typing SVG - JobTracker" />
-</div>
-
-Desenvolvi o **[JobTracker](https://github.com/ithiagojs/jobtracker)** com um propósito claro: **facilitar a organização da sua busca por recolocação.** Acredito que a tecnologia deve ser uma aliada em momentos de transição.
-
-<br>
-
-| 📋 Centralização | ⏱️ Status em Tempo Real | 📊 Análise de Dados |
-| :--- | :--- | :--- |
-| **Registra todas** as suas candidaturas em um único lugar, sem planilhas bagunçadas. | Acompanhe cada etapa (Envio, Entrevista, Teste) com **total clareza visual**. | (Em breve) Dashboards para entender quais plataformas dão mais retorno. |
-
-<br>
-
-⭐ **Este projeto tem um propósito social. Se ele for útil para você ou se você acredita na iniciativa, deixe sua Estrela no repositório!**
-
-<div align="center">
-  <a href="https://github.com/ithiagojs/jobtracker" target="_blank">
-    <img src="https://img.shields.io/github/stars/ithiagojs/jobtracker?style=for-the-badge&logo=github&color=F7DF1E&logoColor=black" alt="Star Tracker">
-  </a>
-</div>
-
----
-
 ### 🛠️ Minha Caixa de Ferramentas
 
 Tecnologias que utilizo para extração, transformação e visualização de dados:
