@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=3498db&height=150&section=header&text=Thiago%20Jacques&fontSize=45&fontColor=FFFFFF&animation=fadeIn&fontAlignY=28&desc=Analista%20de%20Dados%20Junior&descAlignY=55&descSize=18&descColor=E0F0FF" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=3498db&height=150&section=header&text=Thiago%20Jacques&fontSize=45&fontColor=FFFFFF&animation=fadeIn&fontAlignY=28&desc=Analista%20de%20Dados%20Júnior&descAlignY=55&descSize=18&descColor=E0F0FF" width="100%"/>
 </div>
 
 <br>
@@ -74,6 +74,19 @@ Atualmente busco oportunidades como **Analista de Dados Jr.**, unindo visão ope
 
 ---
 
+## 📂 Projetos em destaque
+
+> Soluções construídas para resolver problemas reais — com foco em dados, visualização e análise operacional.
+
+| Projeto | Descrição | Stack |
+| :--- | :--- | :--- |
+| **[NYC Taxi Dashboard](https://nyc-taxi-dashboard-0.streamlit.app/)** | Dashboard interativo para análise de corridas de táxi em Nova York, com exploração de dados e visualização de indicadores. | `Python` `Pandas` `Streamlit` |
+| **[Comex.io Dashboard Data](https://github.com/karinamsilva/Comex-io-Dashboard-Data)** | Projeto em equipe com foco em dados de comércio exterior, organização de bases e análise para tomada de decisão. | `Python` `Dados` `BI` |
+| **[Comex Site V2](https://github.com/ithiagojs/comex-site-v2)** | Interface web para apresentação da solução do projeto Comex.io. | `JavaScript` `Front-end` `Dados` |
+| **[Alpha Logística](https://github.com/ithiagojs/Alpha_logistica)** | Projeto conectado à visão operacional e logística, aplicando lógica de processos em solução técnica. | `Python` `Logística` |
+
+---
+
 ## ☁️ Minha Jornada na Nuvem (AWS)
 
 > Estudando para a certificação **AWS Cloud Practitioner (CLF-C02)** pela [Escola da Nuvem](https://escoladanuvem.org/) — programa **AWS re/Start**.
@@ -88,34 +101,21 @@ Atualmente busco oportunidades como **Analista de Dados Jr.**, unindo visão ope
 
 | Serviço | O que estou aprendendo |
 | :--- | :--- |
-| ☁️ **EC2** | Servidores virtuais, auto scaling e load balancing |
-| 📦 **S3** | Armazenamento, versionamento e CDN com CloudFront |
-| ⚡ **Lambda** | Funções serverless para backends leves |
-| 🔗 **API Gateway** | Criação de APIs RESTful |
-| 🧩 **CloudFormation** | Infraestrutura como código (IaC) |
-| 🔐 **IAM** | Gerenciamento de identidade e controle de acesso |
-
----
-
-## 📂 Projetos em destaque
-
-> Soluções construídas para resolver problemas reais — com foco em dados, visualização e análise operacional.
-
-| 🎯 Projeto | 📝 Descrição | 🛠️ Stack |
-| :--- | :--- | :--- |
-| **[NYC Taxi Dashboard](https://nyc-taxi-dashboard-0.streamlit.app/)** | Dashboard interativo para análise de corridas de táxi em Nova York, com exploração de dados e visualização de indicadores. | `Python` `Pandas` `Streamlit` |
-| **[Comex.io Dashboard Data](https://github.com/karinamsilva/Comex-io-Dashboard-Data)** | Projeto em equipe com foco em dados de comércio exterior, organização de bases e análise para tomada de decisão. | `Python` `Dados` `BI` |
-| **[Comex Site V2](https://github.com/ithiagojs/comex-site-v2)** | Interface web para apresentação da solução do projeto Comex.io. | `JavaScript` `Front-end` `Dados` |
-| **[Alpha Logística](https://github.com/ithiagojs/Alpha_logistica)** | Projeto conectado à visão operacional e logística, aplicando lógica de processos em solução técnica. | `Python` `Logística` |
+|  **EC2** | Servidores virtuais, auto scaling e load balancing |
+|  **S3** | Armazenamento, versionamento e CDN com CloudFront |
+|  **Lambda** | Funções serverless para backends leves |
+|  **API Gateway** | Criação de APIs RESTful |
+|  **CloudFormation** | Infraestrutura como código (IaC) |
+|  **IAM** | Gerenciamento de identidade e controle de acesso |
 
 ---
 
 ## 🎓 Formação
 
-- 🎓 **Análise e Desenvolvimento de Sistemas** — Universidade Cruzeiro do Sul
-- 🚀 **Bootcamp Análise de Dados** — Generation Brasil
-- ☁️ **AWS re/Start** — Escola da Nuvem
-- 📚 Estudos contínuos em **SQL, Power BI, Python para Dados, Excel Avançado e fundamentos de Cloud**
+-  **Análise e Desenvolvimento de Sistemas** — Universidade Cruzeiro do Sul
+-  **Bootcamp Análise de Dados** — Generation Brasil
+-  **AWS re/Start** — Escola da Nuvem
+-  Estudos contínuos em **SQL, Power BI, Python para Dados, Excel Avançado e fundamentos de Cloud**
 
 ---
 
@@ -130,7 +130,7 @@ Minha principal força está em conectar a visão de quem já viveu a operação
 
 ## 🤝 Vamos conversar?
 
-Estou sempre aberto a bater um papo sobre como a análise de dados e a visão de processos podem transformar operações e resolver problemas reais. Tem alguma ideia ou desafio pela frente? Fique à vontade para entrar em contato!
+Estou aberto a oportunidades como Analista de Dados Jr., especialmente em ambientes onde dados, processos e operação precisam caminhar juntos para apoiar decisões melhores.
 
 <div align="center">
   <a href="https://www.linkedin.com/in/ithiagojs" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
