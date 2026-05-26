@@ -83,7 +83,7 @@ Atualmente busco oportunidades como **Analista de Dados Jr.**, unindo visão ope
 | **[NYC Taxi Dashboard](https://nyc-taxi-dashboard-0.streamlit.app/)** | Dashboard interativo para análise de corridas de táxi em Nova York, com exploração de dados e visualização de indicadores. | `Python` `Pandas` `Streamlit` |
 | **[Comex.io Dashboard Data](https://github.com/karinamsilva/Comex-io-Dashboard-Data)** | Projeto em equipe com foco em dados de comércio exterior, organização de bases e análise para tomada de decisão. | `Python` `Dados` `BI` |
 | **[Comex Site V2](https://github.com/ithiagojs/comex-site-v2)** | Interface web para apresentação da solução do projeto Comex.io. | `JavaScript` `Front-end` `Dados` |
-| **[Alpha Logística](https://github.com/ithiagojs/Alpha_logistica)** | Projeto conectado à visão operacional e logística, aplicando lógica de processos em solução técnica. | `Python` `Logística` |
+| **[Alpha Logística](https://github.com/ithiagojs/Alpha_logistica)** | Projeto conectado à visão operacional e logística, aplicando lógica de processos em solução técnica. | `Python` `SQLite` |
 
 ---
 
